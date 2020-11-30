@@ -1,1 +1,26 @@
-Place Final Reading Notes Here
+# Erik Peña
+#### CIT 114 FALL 2020
+ 
+## Final Reading Notes
+ 
+1. Chapter 1 - Cloud Concept Overview
+- The chapter goes over What is IT(Information Technology), and why it is important. We go quickly brush over the differences in Hardware and Software. We talk about The four Pillars of the IT framework. Infrastructure, Development, Security, and Data. They mention Job roles and occupations, and begin to go in depth to talk about Hardware terminology.
+2. Chapter 2 - Cloud Economics and Billing
+- The chapter goes over What is Billing and Economics Cloud services. The cloud offers 3 billing options: Pay-as-you-go(on demand), reservation-based, and bulk-use(pay less when you use more). They also go into detail about Total Cost of Ownership(TCO) - it helps calculate the direct and indirect cost products and/or systems. Different providers have their own algorithm to calculate TCO.
+3. Chapter 3 - Cloud Global Infrastructure
+- The chapter goes over Global Infrastructure on DevOps. They go into detail on the collaboration between Development and IT operation work to improve teams to build, test, and deploy software faster. As we read along we discover the importance of leadership, and how it that affects the DevOps changes. They help by removing that Silos of software development to create a smooth and fast environment to work as a team. Along with analyzing their team on how they communicate so they can think about their problems objectively. Teams in that practice DevOps are practicing "Us" not "We and Them".
+4. Chapter 4 - Cloud Security with DevOps
+- The chapter goes over Security within DevOps. They explain what cyber Security is, if you have poor cyber habits, and how to improve them. They explain how you can go about all of this within AWS(Amazon Web Servers) Under the IAM(identity and Access Management) Section. Also how to go about securing your accounts, data, if you are under compliance, and they dive deeply to additional Security Services.
+5. Chapter 5 - Networking & Content Delivery
+- The chapter explains what a Network is and how content gets delivered. For content delivery we need to understand networks, they go over what routers, hubs, bridges, wireless routers, switches, and wireless bridges are. They also go into the network topology and the many types of configuration such as start, mesh, point-to-point, daisy chain, ring, tree, and hybrid. We talk about the OSI model and how it applies to our daily uses. They mention IP address, CIDER, MAC address, Host Names, Ports, and sockets. They go into details about AWS VPC and their Subnets. They show how to subnet your network to your business, and clients needs. They also bring in Gateways, route tables, and NAT(Network Address Translation). They also go into details on how all this gets delivered to everyone trying to access their content. They use Route 53, and CloudFront, so route 53 being the DNS to convert your IP address into domain name to people can type into there browser. CloudFront is AWS version for fast web hosting services providing securly delivering data, video, applications, and API's to customers.
+6. Chapter 6 - Compute
+- The chapter explains Operating systems, Virtual machines, containers, Serverless, and PaaS. Different OS offered windows, Windows Enterprise, Linux. VM's are offered based on your needs. Containers are offered as Docker, and Kubernetes. Serverless which allows you to run and deploy code based on usage an Example of this would be Lambda offered by AWS. The last one would be PaaS(Platform as a Service) allows you to manage the underlying infrastructure and allows you to focus on the deployment and management of your applications.
+7. Chapter 7 - Storage
+- The chapter explains what Databases are and how it helps keep organizations in order. A Database is designed, built, and populated with data for a specific purpose. Organizations then use a Database management system(DBMS) to access the data and maintain them. Databases are powerful in the aspect in which they can sort, match, link, aggregate, skip fields, calculate, and arrange data. Since databases are powerful they have different use cases relational, non-relational, managed, or unmanaged.
+8. Chapter 8 - Databases
+- The chapter explains what Databases are and how it helps keep organizations in order. A Database is designed, built, and populated with data for a specific purpose. Organizations then use a Database management system(DBMS) to access the data and maintain them. Databases are powerful in the aspect in which they can sort, match, link, aggregate, skip fields, calculate, and arrange data. Since databases are powerful they have different use cases relational, non-relational, managed, or unmanaged.
+9. Chapter 9 - Cloud Architecture
+- The chapter goes into detail on Cloud Architecture and Framework. They explain what is a well architected framework, and how to make it reliable and available in many different ways.
+10. Chapter 10 - Automatic Scaling & Monitoring
+- The chapter goes into detail on scaling and monitoring. When it comes to scaling they talk about how easy it is if you need a more powerful computer for a faster application. It's a quick change just like moving a slider to select what you want from anywhere you want: phone or tablet. Monitoring on the other hand closely overlooks your application to carefully add or remove resources based on demand.
+
